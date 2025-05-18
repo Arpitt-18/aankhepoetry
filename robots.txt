@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://arpitt-18.github.io/Aankhe/sitemap.xml
