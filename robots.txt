@@ -1,3 +1,2 @@
 User-agent: *
-Disallow:
-Sitemap: https://Arpitt-18.github.io/aankhepoetry/sitemap.xml
+Disallow: /
