@@ -11,6 +11,23 @@
     },
     "items": [
         {
+            "id": "https://Arpitt-18.github.io/aankhepoetry/lettaa-rhaa-main-bistr-pr/",
+            "url": "https://Arpitt-18.github.io/aankhepoetry/lettaa-rhaa-main-bistr-pr/",
+            "title": "लेटा रहा मैं बिस्तर पर",
+            "summary": "लेटा रहा मैं बिस्तर पर, सब सोच समझ न आया मुझे, क्यों जी रहा जो मुश्किल है? क्यों रोक सका&hellip;",
+            "content_html": "<p>लेटा रहा मैं बिस्तर पर,<br>सब सोच समझ न आया मुझे,<br>क्यों जी रहा जो मुश्किल है?<br>क्यों रोक सका न पाया तुझे?<br><br>आंसुओं की एक धारा,<br>और चादर पर जा गिरी।<br>सुख गया मन अंदर से,<br>हक़ीक़त फिर भी न मिली।<br><br>समझ आए सच भला,<br>क्यों अकेला रहना चाहूं मैं?<br>हर बार मौका दे जिंदगी,<br>हर बार कतरा जाऊं मैं।<br><br>ये तकलीफ तकलीफ न लगे,<br>ये आरज़ू चुभती है अब तो।<br>मेरी ख्वाइशों की आज़ादी,<br>दीवार लगती है मुझको।<br><br>लिखना हुआ नसीब अगर,<br>मैं निसार करता हूं।<br>रुक नहीं सकता मगर,<br>इंतजार करता हूं।</p>",
+            "image": "https://Arpitt-18.github.io/aankhepoetry/media/posts/56/ChatGPT-Image-Jul-20-2025-02_05_46-PM.png",
+            "author": {
+                "name": "Aankhe"
+            },
+            "tags": [
+                   "हिंदी",
+                   "गेहरे पद्य"
+            ],
+            "date_published": "2025-07-20T14:17:25+05:30",
+            "date_modified": "2025-07-20T14:17:36+05:30"
+        },
+        {
             "id": "https://Arpitt-18.github.io/aankhepoetry/words-oh-words/",
             "url": "https://Arpitt-18.github.io/aankhepoetry/words-oh-words/",
             "title": "Words, oh words!",
@@ -162,23 +179,6 @@
             ],
             "date_published": "2025-06-02T12:55:46+05:30",
             "date_modified": "2025-07-02T21:54:28+05:30"
-        },
-        {
-            "id": "https://Arpitt-18.github.io/aankhepoetry/kabhi-koi-aaye-mere-ghar/",
-            "url": "https://Arpitt-18.github.io/aankhepoetry/kabhi-koi-aaye-mere-ghar/",
-            "title": "कभी कोई आए मेरे घर",
-            "summary": "कभी कोई आए मेरे घर तो उसे बोल देना यहां रहता था जो था बड़ा सयाना मगर एक हरकत से&hellip;",
-            "content_html": "<p class=\"align-left\" dir=\"ltr\">कभी कोई आए मेरे घर<br>तो उसे बोल देना<br>यहां रहता था जो<br><span style=\"text-align: center; color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\">था बड़ा सयाना<br></span>मगर एक हरकत<br>से बिखर गया<br>चाहता था दिल की<br>करता था मन की<br>इस इधर उधर में<br>कही फिसल गया</p>\n<p class=\"align-left\" dir=\"ltr\">कभी कोई आए मेरे घर<br>तो उसे पूछ लेना<br>आया क्यों भला?<br>अब क्या चाहिए?<br>रूह खो चुकी है<br>बदन थक गया है<br>खयाल सुनते नहीं<br><span style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\">याद आती मगर<br></span>अब ठहरती नहीं<br>ऐसी बदनसीब से<br>क्यों है मिलना?</p>\n<p class=\"align-left\" dir=\"ltr\">कभी कोई आए मेरे घर<br>तो उसे रोक देना<br>वही के वही<br><span style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\">वैसे के वैसे<br></span><span style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\">समय भी जगह भी<br></span>देखूं तो मैं भी<br><span style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\">कितना है मुमकिन<br></span>अगर हां<br>तो किया क्यों नहीं<br>अगर ना<br>तो जरूरत क्यों पड़ी</p>",
-            "image": "https://Arpitt-18.github.io/aankhepoetry/media/posts/40/ChatGPT-Image-Jul-2-2025-08_54_14-PM.png",
-            "author": {
-                "name": "Aankhe"
-            },
-            "tags": [
-                   "हिंदी",
-                   "गेहरे पद्य"
-            ],
-            "date_published": "2025-06-02T06:59:24+05:30",
-            "date_modified": "2025-07-02T21:21:53+05:30"
         }
     ]
 }
