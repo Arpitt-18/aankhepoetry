@@ -11,6 +11,23 @@
     },
     "items": [
         {
+            "id": "https://Arpitt-18.github.io/aankhepoetry/mjduurii/",
+            "url": "https://Arpitt-18.github.io/aankhepoetry/mjduurii/",
+            "title": "मजदूरी",
+            "summary": "हर वक्त चुभता है मुझे यह खयाल मेरी छत बनानेवाला बेघर हो रखा है मैं हर रात को तरसता हूं&hellip;",
+            "content_html": "<p dir=\"ltr\">हर वक्त चुभता है मुझे यह खयाल<br>मेरी छत बनानेवाला बेघर हो रखा है<br>मैं हर रात को तरसता हूं तारों के लिए<br>वह हर रात को तरसता है छत के लिए</p>\n<p dir=\"ltr\">मैं तोड़ना चाहता हूं भीतर की दीवारें<br>वह हर दिन एक नई ईट खोजता है<br>मैं छूना चाहता हूं आसमान को<br>वह चंद पैसों के लिए जमीन खोदता है</p>\n<p dir=\"ltr\">मैं लिख देता हूं चार लफ्ज़ इस चुभन में<br>पढ़ना लिखना उस तक कहां पहुंचता है<br>मैं भूल जाऊंगा कल उसकी कहानी<br>वह रोज मुझ–सा बनने का ख्वाब देखता है</p>",
+            "image": "https://Arpitt-18.github.io/aankhepoetry/media/posts/73/ChatGPT-Image-Aug-10-2025-06_36_54-PM.png",
+            "author": {
+                "name": "Aankhe"
+            },
+            "tags": [
+                   "हिंदी",
+                   "गेहरे पद्य"
+            ],
+            "date_published": "2025-08-10T18:39:03+05:30",
+            "date_modified": "2025-08-10T18:39:56+05:30"
+        },
+        {
             "id": "https://Arpitt-18.github.io/aankhepoetry/sc-kyaa-hai/",
             "url": "https://Arpitt-18.github.io/aankhepoetry/sc-kyaa-hai/",
             "title": "सच क्या है?",
@@ -162,23 +179,6 @@
             ],
             "date_published": "2025-07-10T18:49:50+05:30",
             "date_modified": "2025-07-10T18:52:51+05:30"
-        },
-        {
-            "id": "https://Arpitt-18.github.io/aankhepoetry/husn/",
-            "url": "https://Arpitt-18.github.io/aankhepoetry/husn/",
-            "title": "हुस्न",
-            "summary": "हुस्न से ढाया कहर, दिल की तार छेड़ी है श्रृंगार रस भी कमजोर, मानो हुस्न की देवी है। बजे मृदुंग,&hellip;",
-            "content_html": "<p>हुस्न से ढाया कहर,<br>दिल की तार छेड़ी है<br data-start=\"38\" data-end=\"41\">श्रृंगार रस भी कमजोर,<br>मानो हुस्न की देवी है।</p>\n<p>बजे मृदुंग, मधुर ताल,<br>हाय! मजनूं हुआ बेहाल<br data-start=\"130\" data-end=\"133\">मोरपंख सी लालिमा,<br>हो जैसे कुदरत का कमाल।</p>\n<p>धड़क धड़क के बोल रहा दिल,<br>ये कैसी अद्भुत काया है,<br data-start=\"225\" data-end=\"228\">आँखों में ख़ुशी के आँसू,<br>प्रेम का पनघट पाया है।</p>\n<p>आज जुड़ जाएँगे दो दिल,<br>ये शाम बड़ी सुहानी,<br data-start=\"320\" data-end=\"323\">जीवन डगर पर मिले थे हम,<br>अब लिखेंगे नई कहानी</p>",
-            "image": "https://Arpitt-18.github.io/aankhepoetry/media/posts/49/ChatGPT-Image-Jul-10-2025-06_42_13-PM.png",
-            "author": {
-                "name": "Aankhe"
-            },
-            "tags": [
-                   "हिंदी",
-                   "प्यार पर"
-            ],
-            "date_published": "2025-07-10T18:28:55+05:30",
-            "date_modified": "2025-07-10T18:42:52+05:30"
         }
     ]
 }
