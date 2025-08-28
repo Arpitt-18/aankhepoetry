@@ -11,6 +11,23 @@
     },
     "items": [
         {
+            "id": "https://Arpitt-18.github.io/aankhepoetry/baat-lphjon-kii-nhiin-2/",
+            "url": "https://Arpitt-18.github.io/aankhepoetry/baat-lphjon-kii-nhiin-2/",
+            "title": "बात लफ़्ज़ों की नहीं",
+            "summary": "बात लफ़्ज़ों की नहीं बात एहसासों की है जिनमें रहके बीती है ज़िंदगानी बात उन रातों की है जहाँ दिखते&hellip;",
+            "content_html": "<p data-start=\"46\" data-end=\"141\">बात लफ़्ज़ों की नहीं<br data-start=\"66\" data-end=\"69\">बात एहसासों की है<br data-start=\"86\" data-end=\"89\">जिनमें रहके बीती है ज़िंदगानी<br data-start=\"118\" data-end=\"121\">बात उन रातों की है</p>\n<p data-start=\"150\" data-end=\"299\">जहाँ दिखते हैं तारे हसरतों के ऊपर<br data-start=\"183\" data-end=\"186\">जहाँ खिलते हैं ख़्वाब बंदिशों के ऊपर<br data-start=\"222\" data-end=\"225\">उस आसमान में उड़ने की ख़्वाहिश है<br data-start=\"258\" data-end=\"261\">उस गुलिस्ताँ में रहने की ख़्वाहिश है</p>\n<p data-start=\"308\" data-end=\"450\">इन चमकते सितारों के बीच एक चेहरा है<br data-start=\"343\" data-end=\"346\">जो धीरे धीरे धूप के आँचल में ढल रहा है<br data-start=\"384\" data-end=\"387\">जो आएगा फिर कल मुझे रिझाने<br data-start=\"413\" data-end=\"416\">वो चाँद मेरा मुझसे कुछ कह रहा है</p>\n<p data-start=\"459\" data-end=\"570\">जिधर मेरे जज़्बात दफ़्न हैं<br data-start=\"486\" data-end=\"489\">तुझे भी वहाँ रखता हूँ<br data-start=\"510\" data-end=\"513\">होना न कभी रुख़्सत मुझसे<br data-start=\"537\" data-end=\"540\">बस तुझे पाने की चाह रखता हूँ</p>",
+            "author": {
+                "name": "Aankhe"
+            },
+            "tags": [
+                   "हिंदी",
+                   "गेहरे पद्य",
+                   "w/Video"
+            ],
+            "date_published": "2025-08-27T23:57:12+05:30",
+            "date_modified": "2025-08-28T21:51:58+05:30"
+        },
+        {
             "id": "https://Arpitt-18.github.io/aankhepoetry/neend-kaa-din-kaa-baarish-kaa-yaa-taaron-kaa/",
             "url": "https://Arpitt-18.github.io/aankhepoetry/neend-kaa-din-kaa-baarish-kaa-yaa-taaron-kaa/",
             "title": "नींद का, दिन का, बारिश का या तारों का?",
@@ -162,23 +179,6 @@
             ],
             "date_published": "2025-07-31T22:26:24+05:30",
             "date_modified": "2025-08-03T13:27:48+05:30"
-        },
-        {
-            "id": "https://Arpitt-18.github.io/aankhepoetry/merii-cht-ke-kinaare-ek-bistr-pddaa-hai/",
-            "url": "https://Arpitt-18.github.io/aankhepoetry/merii-cht-ke-kinaare-ek-bistr-pddaa-hai/",
-            "title": "मेरी छत के किनारे एक बिस्तर पड़ा है",
-            "summary": "मेरी छत के किनारे एक बिस्तर पड़ा है थोड़ा टेढ़ा, थोड़ा टूटा, थोड़ा हो गया कड़ा है इस बिस्तर पर&hellip;",
-            "content_html": "<p>मेरी छत के किनारे एक बिस्तर पड़ा है<br>थोड़ा टेढ़ा, थोड़ा टूटा, थोड़ा हो गया कड़ा है<br>इस बिस्तर पर कोई गद्दा नहीं<br>इस बिस्तर में मगर सुकून बड़ा है<br><br>ये घर मुझे गए बरसो हो चुके है<br>अब धूल भी अपने निशान छोड़ रही है<br>जो फुसफुसाया करती थी सारी नोंक झोंक<br>उन दीवारों को क्या मैं याद भी रहूंगा?<br><br>मगर छत के किनारे वो जो बिस्तर पड़ा है<br>बचपन से जवानी, जिसपर गुजर गई<br>अब बेचैन, रात को हम दोनों देखते है<br>ये सितारें ठीक वैसे ही, बदलते क्यों नहीं?</p>",
-            "image": "https://Arpitt-18.github.io/aankhepoetry/media/posts/62/ChatGPT-Image-Jul-29-2025-11_12_15-PM.png",
-            "author": {
-                "name": "Aankhe"
-            },
-            "tags": [
-                   "हिंदी",
-                   "गेहरे पद्य"
-            ],
-            "date_published": "2025-07-29T23:13:44+05:30",
-            "date_modified": "2025-07-31T22:35:29+05:30"
         }
     ]
 }
