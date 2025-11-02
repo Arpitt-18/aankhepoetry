@@ -11,6 +11,23 @@
     },
     "items": [
         {
+            "id": "https://aankhepoetry.in/haay-haay-akelaa-cluun-main/",
+            "url": "https://aankhepoetry.in/haay-haay-akelaa-cluun-main/",
+            "title": "हाय! हाय! अकेला चलूं मैं",
+            "summary": "हाय! हाय! अकेला चलूं मैं हाय! हाय रे! अकेला चलूं चंद पत्ते, चंद सितारें है, ये रास्ते चेहरों के मारे&hellip;",
+            "content_html": "<p>हाय! हाय! अकेला चलूं मैं<br>हाय! हाय रे! अकेला चलूं<br><br>चंद पत्ते, चंद सितारें है,<br>ये रास्ते चेहरों के मारे है,<br>न बिल्ली काट रही इनको,<br>न कुत्ते इनपर सोना चाहे,<br>बेबस, लाचार, परेशान,<br>ये मुझसे उम्मीद लगाए!<br>ऐसे में मैं क्या करूं?<br>हाय! हाय! अकेला चलूं मैं<br>हाय हाय रे! अकेला चलूं<br><br>ऐसा नहीं के लोग नहीं है<br>पर किसे पड़ी इन राहों की,<br>सब चलते है मदमस्त यहां,<br>सबने अपनी मनचाही की<br>कभी आगे की, कभी पीछे की,<br>किसने अब की वाह–वाही की<br>न पसंद मुझे ऐसे जीना,<br>बस असमंजस में रहना<br>अब बताओ मैं क्या करूं?<br>हाय! हाय! अकेला चलूं मैं<br>हाय हाय रे! अकेला चलूं</p>",
+            "image": "https://aankhepoetry.in/media/posts/84/Gemini_Generated_Image_atnxofatnxofatnx.png",
+            "author": {
+                "name": "Aankhe"
+            },
+            "tags": [
+                   "हिंदी",
+                   "गेहरे पद्य"
+            ],
+            "date_published": "2025-11-02T18:56:33+05:30",
+            "date_modified": "2025-11-02T18:56:46+05:30"
+        },
+        {
             "id": "https://aankhepoetry.in/khtm/",
             "url": "https://aankhepoetry.in/khtm/",
             "title": "ख़तम।",
@@ -164,23 +181,6 @@
             ],
             "date_published": "2025-08-11T19:41:10+05:30",
             "date_modified": "2025-10-02T11:32:12+05:30"
-        },
-        {
-            "id": "https://aankhepoetry.in/ksk/",
-            "url": "https://aankhepoetry.in/ksk/",
-            "title": "कसक",
-            "summary": "यह तो दिल की कसक है ख्वाब अधमरे तड़प रहे मुझमें बाकी न मुझसा कोई अब तुझमें शायद मैं मिलूं&hellip;",
-            "content_html": "<p dir=\"ltr\">यह तो दिल की कसक है<br>ख्वाब अधमरे तड़प रहे<br>मुझमें बाकी न मुझसा कोई<br>अब तुझमें शायद मैं मिलूं</p>\n<p dir=\"ltr\">यह मन भी फिसल रहा<br>हर बार हर खयाल से<br>कुछ अगर थमी हुई<br><span style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\">मेरी रूह तेरे प्यार से</span></p>\n<p dir=\"ltr\">क्यों जोड़ता है मुझे?<br>क्यों तोड़ता भी रहे?<br>ऐसा भी क्या फैसला,<br>है फंसा तेरे ख्याल में?</p>",
-            "image": "https://aankhepoetry.in/media/posts/74/ChatGPT-Image-Aug-11-2025-08_03_38-PM.png",
-            "author": {
-                "name": "Aankhe"
-            },
-            "tags": [
-                   "हिंदी",
-                   "भारी पद्य"
-            ],
-            "date_published": "2025-08-11T19:38:26+05:30",
-            "date_modified": "2025-08-11T20:03:51+05:30"
         }
     ]
 }
