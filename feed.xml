@@ -3,12 +3,41 @@
     <title>aankhepoetry</title>
     <link href="https://www.aankhepoetry.in/feed.xml" rel="self" />
     <link href="https://www.aankhepoetry.in" />
-    <updated>2026-01-25T21:42:58+05:30</updated>
+    <updated>2026-02-11T19:15:37+05:30</updated>
     <author>
         <name>Aankhe</name>
     </author>
     <id>https://www.aankhepoetry.in</id>
 
+    <entry>
+        <title>इक रात</title>
+        <author>
+            <name>Aankhe</name>
+        </author>
+        <link href="https://www.aankhepoetry.in/ik-raat/"/>
+        <id>https://www.aankhepoetry.in/ik-raat/</id>
+        <media:content url="https://www.aankhepoetry.in/media/posts/91/desert-6215516_1280.jpg" medium="image" />
+            <category term="हिंदी"/>
+            <category term="गहरे पद्य"/>
+
+        <updated>2026-02-11T19:15:24+05:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://www.aankhepoetry.in/media/posts/91/desert-6215516_1280.jpg" alt="" />
+                    इक रात हक़ीक़त है मेरे दुखड़ो के जलने की इक रात इज़ाज़त है मेरी गलतियों को खुलने की मैं हो&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://www.aankhepoetry.in/media/posts/91/desert-6215516_1280.jpg" class="type:primaryImage" alt="" /></p>
+                <p class="align-center" dir="ltr">इक रात हक़ीक़त है<br>मेरे दुखड़ो के जलने की<br>इक रात इज़ाज़त है<br>मेरी गलतियों को खुलने की</p>
+<p class="align-center" dir="ltr">मैं हो जाऊं मायूस अगर,<br>क्या सच में रो पाऊंगा?<br>मैं सोचता हूँ यही भी मगर,<br>रो–रो कर किधर को जाऊंगा?</p>
+<p class="align-center" dir="ltr">बर्बाद हुआ मैं कह देना तुम,<br>अंदरुनी बातें कौन समझाए?<br>मैं हंसते हंसते सह लूंगा तम,<br>जीवन गुमसुम कौन बिताए?</p>
+<p class="align-center" dir="ltr">बहकी है सपनों की दुनिया<br>जाहिल को जाहिल रहने दो<br>मैं रह चुका हूँ मुसीबत में<br>मुझे उसी के काबिल रहने दो</p>
+<p class="align-center" dir="ltr">इक रात हक़ीक़त है<br>तारों के तले छिपने की<br>इक रात इज़ाज़त है<br>तारों को ढलने की</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>I want to die while sleeping.</title>
         <author>
@@ -244,33 +273,6 @@
 <p class="align-center" dir="ltr">न समझ न सलीका जिंदगी का कोई<br>फिर क्यों ये परवाने रंज में सजते है</p>
 <p class="align-center" dir="ltr">मुझे न फिकर किसी तौर की जब<br>लफ्ज़–ए–जिगर गाली से सस्ते है</p>
 <p class="align-center" dir="ltr">भड़क उठेंगे जो मेरे एक सवाल पर<br>यह बेताब बदनसीब मुझे परखते है</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>आँखें</title>
-        <author>
-            <name>Aankhe</name>
-        </author>
-        <link href="https://www.aankhepoetry.in/aankhen/"/>
-        <id>https://www.aankhepoetry.in/aankhen/</id>
-        <media:content url="https://www.aankhepoetry.in/media/posts/79/InShot_20250216_161654815.jpg" medium="image" />
-            <category term="हिंदी"/>
-            <category term="Archive"/>
-
-        <updated>2025-09-15T09:35:31+05:30</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://www.aankhepoetry.in/media/posts/79/InShot_20250216_161654815.jpg" alt="" />
-                    मैंने जिंदगी को बेनकाब दूर से देखा मगर यह सच है कि पास से देख न पाया मैंने ख्वाबों को&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://www.aankhepoetry.in/media/posts/79/InShot_20250216_161654815.jpg" class="type:primaryImage" alt="" /></p>
-                <p class="align-center" dir="ltr">मैंने जिंदगी को बेनकाब दूर से देखा<br>मगर यह सच है कि पास से देख न पाया</p>
-<p class="align-center" dir="ltr">मैंने ख्वाबों को ख्वाब ही रौंदते देखा<br>मगर मैं दिल की बेबसी देख न पाया</p>
-<p class="align-center" dir="ltr">मैंने अश्कों को आंखों से फिसलते देखा<br>मगर मैं उनके अंत को देख न पाया</p>
             ]]>
         </content>
     </entry>
